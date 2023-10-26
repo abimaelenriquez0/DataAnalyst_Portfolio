@@ -10,7 +10,7 @@ I am an aspiring data analyst with a strong passion for data visualization and i
 
 ## Projects
 
-Explore the following projects to get a taste of my data analysis skills:
+Explore the following **SQL projects** to get a taste of my data analysis skills:
 
 1. [Hotel_Booking_EDA](hotel_booking_eda.sql): This project presents a macro-level analysis of real hotel booking data for two types of hotels: City and Resort; retrieved from Kaggel by MOJTABA. The original source is from the article Hotel Booking Demand Datasets, 
 	written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, Feb 2019.
