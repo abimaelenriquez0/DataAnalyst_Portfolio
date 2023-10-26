@@ -19,7 +19,7 @@ Explore the following projects to get a taste of my data analysis skills:
 3. [Ecommerce_Company_Data_Analysis](ecommerce_data_analysis_mysql.sql): This project focuses on a synthetic dataset created to mimic a real-world ecommerce digital marketing company, created by Maven Analytics.
    **The objective** was to explore different sources of website traffic channels, perform multiple A/B testing website pageview analysis, and build sales conversion funnels for specific products.
 
-4. [Covid_Expoloration_EDA](SQLQuery1.sql): This project focuses on real COVID-19 data extracted from OurWorldInData ranging from Jan 2020 - Aug 2022.
+4. [Covid_Expoloration_EDA](covid_exploration.sql): This project focuses on real COVID-19 data extracted from OurWorldInData ranging from Jan 2020 - Aug 2022.
    **The objective** was to explore the overall impact COVID had on the global population.
 
 
